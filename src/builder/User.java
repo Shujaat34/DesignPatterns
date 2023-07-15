@@ -62,6 +62,7 @@ public class User {
         //BY MAKING final firstName and LastName we make them mandatory fields.
         private final String firstName;
         private final String lastName;
+        //These 3 below fields are optional
         private int age;
         private String phone;
         private String address;
